@@ -1,0 +1,30 @@
+.Directory{width: 100px; 
+    height: 100px; 
+    padding: 0.5em;
+     float: left; 
+     margin: 10px 10px 10px 0; 
+     outline: auto;
+    text-align: center;
+    outline-color: black;
+    } 
+
+
+.contanctUsParent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.contanctUsParent div {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+  flex-direction: column;
+  
+  }
+
+  .contanctUsParent H1{width: 1000px; height: 200px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }
+  
